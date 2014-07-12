@@ -1,4 +1,4 @@
-python-hdhomerun
-================
+hdhomerun
+=========
 
 Python bindings for libhdhomerun
