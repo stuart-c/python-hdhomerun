@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='hdhomerun',
-      version='0.1',
+      version='0.2',
       description='Python bindings for libhdhomerun',
       long_description=readme(),
       classifiers=[
